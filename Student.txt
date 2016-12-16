@@ -1,0 +1,6 @@
+1234567890
+3
+John Smith
+Computer Science
+CS302,CS252,CS367,Math234,CS537,CS412,Math221,Math222,CS540
+
